@@ -2,6 +2,7 @@ Kubrix.ai: Your Hub for Text to Video and Viral Video Creation
 
 Kubrix.ai is an innovative platform that empowers creators and businesses to transform ideas into viral video content in just a few clicks. With a user-friendly interface and advanced AI models, Kubrix simplifies video production, offering diverse styles and customization to suit any need.
 
+
 Key Features
 Diverse Video Types: Choose from various video styles, including:
 Text To Video generation
